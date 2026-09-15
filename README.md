@@ -4,6 +4,6 @@
 
 ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=KigoryGH&days=30&width=320&height=80&hide_border=true)
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=KigoryGH&show_ring=false&hide_title=true) <img src="https://ghchart.rshah.org/8a2be2/KigoryGH" width="1200" alt="GitHub Contribution Grid" />
+![GitHub Stats Card](https://ghstats.dev/api/card?username=KigoryGH&show_ring=false&hide_title=true) <img src="https://ghchart.rshah.org/8a2be2/KigoryGH" width="2000" alt="GitHub Contribution Grid" />
 
 ![Top Languages](https://ghstats.dev/api/langs?username=KigoryGH&theme=dracula&hide_border=true&hide_title=true&max_langs=12)
